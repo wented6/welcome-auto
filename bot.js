@@ -39,9 +39,8 @@ p3.on("message", message => {
   if(!fuli) return;
   if(fuli) {
   setTimeout(() => fuli.send(`𝐖elcome 𝐓o , **Universe.**`), 4000)
-  }
-  });
-  
+}
+});
 
 
 
