@@ -50,7 +50,7 @@ p4.on('guildMemberAdd', member => {
   const fuli= member.guild.channels.get("515944328921874432");
   if(!fuli) return;
   if(fuli) {
-  setTimeout(() => fuli.send(`**Welcُme To** Uni   **#**), 4000)
+  setTimeout(() => fuli.send(**Welcُme To** Uni   **#**), 4000)
 }
 });
 
