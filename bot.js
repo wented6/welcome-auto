@@ -40,7 +40,7 @@ p3.on('guildMemberAdd', member => {
   const fuli= member.guild.channels.get("515175025016307722");
   if(!fuli) return;
   if(fuli) {
-  setTimeout(() => fuli.send(`𝐖elcome 𝐓o , **Peace**`), 4000)
+  setTimeout(() => fuli.send(`**Benvenuto alla Peace .**`), 4000)
 }
 });
 
