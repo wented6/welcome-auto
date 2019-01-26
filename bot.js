@@ -15,7 +15,7 @@ p1.on('guildMemberAdd', member => {
 const fuli= member.guild.channels.get("534460862027530263");
 if(!fuli) return;
 if(fuli) {
-setTimeout(() => fuli.send(`**Welcome To **Horizon's** Server ..`), 4000)
+setTimeout(() => fuli.send(`Welcome To **Horizon's** Server  ..`), 4000)
 }
 });
 
