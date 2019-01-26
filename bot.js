@@ -12,7 +12,7 @@ const p1 = new D1.Client();
 
     console.log("oNNN1");
 p1.on('guildMemberAdd', member => {
-const fuli= member.guild.channels.get("490622145605402661");
+const fuli= member.guild.channels.get("534460862027530263");
 if(!fuli) return;
 if(fuli) {
 setTimeout(() => fuli.send(`**Welcome To **Horizon's** Server ..`), 4000)
