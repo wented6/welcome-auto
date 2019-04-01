@@ -18,7 +18,7 @@ const p4 = new D4.Client();
 
     console.log("oNNN1");
 p1.on('guildMemberAdd', member => {
-const fuli= member.guild.channels.get("561475969924464671");
+const fuli= member.guild.channels.get("561848010821337102");
 if(!fuli) return;
 if(fuli) {
 setTimeout(() => fuli.send(`**Welcome To Bravery Avatar ..**`), 4000)
@@ -27,7 +27,7 @@ setTimeout(() => fuli.send(`**Welcome To Bravery Avatar ..**`), 4000)
 
    console.log("oNNN2");
 p2.on('guildMemberAdd', member => {
-const fuli= member.guild.channels.get("561475969924464671");
+const fuli= member.guild.channels.get("561848010821337102");
 if(!fuli) return;
 if(fuli) {
 setTimeout(() => fuli.send(`**Welcome To Bravery Avatar ..**`), 3800)
@@ -36,7 +36,7 @@ setTimeout(() => fuli.send(`**Welcome To Bravery Avatar ..**`), 3800)
 
    console.log("oNNN3");
 p3.on('guildMemberAdd', member => {
-const fuli= member.guild.channels.get("561475969924464671");
+const fuli= member.guild.channels.get("561848010821337102");
 if(!fuli) return;
 if(fuli) {
 setTimeout(() => fuli.send(`**Welcome To Bravery Avatar ..**`), 3600)
@@ -45,7 +45,7 @@ setTimeout(() => fuli.send(`**Welcome To Bravery Avatar ..**`), 3600)
 
    console.log("oNNN4");
 p4.on('guildMemberAdd', member => {
-const fuli= member.guild.channels.get("561475969924464671");
+const fuli= member.guild.channels.get("561848010821337102");
 if(!fuli) return;
 if(fuli) {
 setTimeout(() => fuli.send(`**Welcome To Bravery Avatar ..**`), 3400)
